@@ -93,7 +93,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-mr-48 pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class="md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img loading="lazy" width="647" height="486"
                         class="w-full rounded-xl shadow-2xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent" src="assets/p1.webp">
@@ -132,7 +132,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-ml-48 pr-6 md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class="md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img alt="Inbox user interface" loading="lazy" width="647" height="486"
                         class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent" src="assets/p2.webp">
@@ -168,7 +168,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-mr-48 pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class=" md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img loading="lazy" width="646" height="485"
                         class="w-full rounded-xl shadow-2xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent"
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-ml-48 pr-6 md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class="md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img alt="Inbox user interface" loading="lazy" width="647" height="486"
                         class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent" src="assets/p4.webp">
@@ -243,7 +243,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-mr-48 pl-6 md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class=" md:-mr-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img loading="lazy" width="646" height="485"
                         class="w-full rounded-xl shadow-2xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent"
@@ -281,7 +281,7 @@
                 </div>
             </div>
             <div class="mt-12 sm:mt-16 lg:mt-0">
-                <div class="-ml-48 pr-6 md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
+                <div class=" md:-ml-16 lg:relative lg:m-0 lg:h-full lg:px-0">
                     <img alt="Inbox user interface" loading="lazy" width="647" height="486"
                         class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none"
                         style="color:transparent" src="assets/p6.webp">
