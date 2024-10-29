@@ -108,7 +108,7 @@
 
             <div class="flex flex-col-reverse sm:flex-row items-center justify-between gap-5 pt-7">
                 <span class="text-sm font-normal text-gray-400">
-                    <a href="/" class="">©hanucode</a> 2024, All rights reserved.
+                    <a href="https://hanucode.com" target="_blank" class="">©hanucode</a> 2024, All rights reserved.
                 </span>
                 <div class="relative  text-gray-500 focus-within:text-gray-900 ">
                     <div class="absolute inset-y-0 right-6 flex items-center pl-3 pointer-events-none ">

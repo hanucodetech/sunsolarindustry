@@ -37,6 +37,8 @@
         ?>
     </title>
 
+    <link rel="icon" href="assets/logo1.ico" type="image/x-icon">
+
     <!-- Meta Description -->
     <meta name="description" content="Sun Solar Industry offers the best solar panels and energy solutions in Jhansi. From solar panel installation and maintenance to cost-effective renewable energy solutions, we serve residential and commercial clients in Jhansi. Discover the power of solar energy with the top solar company in Jhansi.">
 
@@ -46,7 +48,7 @@
     <!-- Open Graph Meta Tags for Social Sharing -->
     <meta property="og:title" content="Sun Solar Industry - Best Solar Panels & Energy Solutions in Jhansi">
     <meta property="og:description" content="Discover high-quality solar panels and energy solutions in Jhansi with Sun Solar Industry. We specialize in installation, maintenance, and eco-friendly solar power for homes and businesses.">
-    <meta property="og:image" content="assets/logo.jpeg">
+    <meta property="og:image" content="assets/logo1.jpeg">
     <meta property="og:url" content="https://sunsolarindustry.in">
     <meta property="og:type" content="website">
 
@@ -54,7 +56,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Sun Solar Industry - Best Solar Panels & Energy Solutions in Jhansi">
     <meta name="twitter:description" content="Sun Solar Industry in Jhansi provides top solar panel solutions for residential and commercial needs. Harness eco-friendly solar power for sustainable energy.">
-    <meta name="twitter:image" content="assets/logo.jpeg">
+    <meta name="twitter:image" content="assets/logo1.jpeg">
 
     <!-- Schema Markup for Local Business -->
     <script type="application/ld+json">
@@ -73,7 +75,7 @@
             "postalCode": "284001",
             "addressCountry": "IN"
         },
-        "image": "https://sunsolarindustry.in/assets/logo.jpeg",
+        "image": "https://sunsolarindustry.in/assets/logo1.jpeg",
         "openingHours": "Mo-Fr 09:00-18:00",
         "priceRange": "$$",
         "sameAs": [
