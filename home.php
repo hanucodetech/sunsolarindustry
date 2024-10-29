@@ -1,46 +1,40 @@
     <!-- Hero Section -->
-    <section class="relative h-screen flex items-center text-white"> <!-- mt-16 to prevent overlap with navbar -->
-        <div class="absolute top-0 left-0 w-full h-full overflow-hidden">
-            <video class="min-w-full min-h-full absolute object-cover" src="assets/hero.mp4" type="video/mp4" autoplay
-                muted loop></video>
+    <section class="relative h-screen flex items-center text-white "> <!-- mt-16 to prevent overlap with navbar -->
+    <div class="absolute top-0 left-0 w-full h-full overflow-hidden z-0">
+        <video class="min-w-full min-h-full absolute object-cover" src="assets/hero.mp4" type="video/mp4" autoplay muted loop></video>
+        <!-- Black overlay with opacity -->
+        <div class="absolute top-0 left-0 w-full h-full bg-black opacity-60"></div>
+    </div>
 
-            <!-- Adding a black overlay with opacity -->
-            <div class="absolute top-0 left-0 w-full h-full bg-black opacity-60 z-10"></div>
-        </div>
+    <!-- Content section with flexbox to split into left and right -->
+    <div class="relative z-10 w-full flex justify-center items-center mt-60 sm:mt-10 px-8">
+        <div class="w-full md:w-3/4 lg:w-2/3 flex flex-col md:flex-row justify-around gap-8 items-center">
+            <!-- Left side: Text and Button -->
+            <div class="w-full md:w-1/2 bg-gray-400/50 p-6 rounded-lg flex flex-col justify-center items-start">
+                <h1 class="text-center font-semibold text-4xl">
+                    Be a Part of Revolution with
+                </h1>
+                <h3 class="font-semibold text-xl mt-2">
+                    Power your future with clean, renewable energy. Join the solar revolution today and take a step
+                    towards a greener, more sustainable tomorrow. Save money, protect the environment, and brighten
+                    your world with solar energy solutions tailored just for you.
+                </h3>
+                <button class="mt-4 px-6 py-2 bg-orange-500 text-white border border-orange-500 rounded-lg hover:bg-orange-600">
+                    Get Started
+                </button>
+            </div>
 
-        <!-- Content section with flexbox to split into left and right -->
-        <div class="z-20 w-full flex justify-center items-center px-8">
-            <div class="w-full md:w-3/4 lg:w-2/3 flex flex-col md:flex-row justify-around gap-8 items-center">
-                <!-- Left side: Text and Button -->
-                <div class="w-full md:w-1/2 bg-gray-400/50 p-6 rounded-lg flex flex-col justify-center items-start">
-                    <h1 class="text-center font-semibold text-4xl">
-                        Be a Part of Revolution with
-                        <h3 class="font-semibold text-xl">Power your future with clean, renewable energy. Join the solar
-                            revolution today and take a step towards a greener, more sustainable tomorrow. Save money,
-                            protect the environment, and brighten your world with solar energy solutions tailored just
-                            for you.</h3>
-                    </h1>
-                    <button
-                        class="mt-4 px-6 py-2 bg-orange-500 text-white border border-orange-500 rounded-lg hover:bg-orange-600">
-                        Get Started
-                    </button>
-                </div>
-
-                <!-- Right side: Typewriter -->
-                <div class="w-full md:w-1/2 p-6 rounded-lg">
-                    <h1 class="text-center font-semibold text-3xl">
-                        Thinking Solar?<br />
-                        <span class="typewriter" id="typewriter"></span>
-                    </h1>
-                </div>
+            <!-- Right side: Typewriter effect -->
+            <div class="w-full md:w-1/2 p-6 rounded-lg">
+                <h1 class="text-center font-semibold text-3xl">
+                    Thinking Solar?<br />
+                    <span class="typewriter" id="typewriter"></span>
+                </h1>
             </div>
         </div>
+    </div>
+</section>
 
-
-
-
-
-    </section>
     <!-- why solar section -->
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
         <h1 class="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">

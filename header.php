@@ -144,7 +144,7 @@
         <div class="container mx-auto flex justify-between items-center py-4 px-4 md:px-6 lg:px-8">
             <!-- Logo -->
             <a href="/" class="text-xl font-bold text-white hover:text-orange-600">
-            <img class="h-16 w-80 rounded-lg" src="assets/logo.jpeg" alt="sun solar industry"/></a>
+            <img class="h-16 w-40 sm:w-60 rounded-lg" src="assets/logo.jpeg" alt="sun solar industry"/></a>
             <!-- Links for large screens -->
             <ul class="hidden md:flex space-x-8 items-center text-lg">
                 <li><a href="index.php?page=home" class="text-white hover:text-orange-600">Home</a></li>
@@ -187,4 +187,13 @@
                 Call</a>
         </div>
     </nav>
- 
+ <!-- WhatsApp Icon - Bottom Left -->
+<a href="https://wa.me/91XXXXXXXXXX" target="_blank" class="fixed left-4 bottom-4 z-50 bg-green-500 rounded-full w-12 h-12 flex items-center justify-center text-white hover:bg-green-600">
+    <i class="fab fa-whatsapp text-xl"></i>
+</a>
+
+<!-- Call Icon - Bottom Right -->
+<a href="tel:+91XXXXXXXXXX" class="fixed right-4 bottom-4 z-50 bg-blue-500 rounded-full w-12 h-12 flex items-center justify-center text-white hover:bg-blue-600">
+    <i class="fas fa-phone-alt text-xl"></i>
+</a>
+

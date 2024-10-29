@@ -36,7 +36,7 @@
             <div class="flex items-center w-full col-span-6">
               <div class="px-6 h-[600px] lg:h-auto w-full max-w-2xl col-span-6 flex items-center mx-auto">
                 <div class="w-full h-full">
-                  <iframe frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" width="100%" height="100%" src="https://www.youtube.com/embed/mr15Xzb1Ook?autoplay=0&mute=0&controls=0" title="Video Player"></iframe>
+                  <iframe frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" width="100%" height="100%" src="assets/hero.mp4" title="Video Player"></iframe>
                 </div>
               </div>
             </div>
