@@ -1,7 +1,7 @@
     <!-- Hero Section -->
     <section class="relative h-screen flex items-center text-white"> <!-- mt-16 to prevent overlap with navbar -->
         <div class="absolute top-0 left-0 w-full h-full overflow-hidden">
-            <video class="min-w-full min-h-full absolute object-cover" src="assets/hero.mp4" type="video/mp4" autoplay
+            <video class="min-w-full min-h-full absolute object-cover" src="../assets/hero.mp4" type="video/mp4" autoplay
                 muted loop></video>
 
             <!-- Adding a black overlay with opacity -->
@@ -151,19 +151,19 @@
                 <h2 class="text-3xl text-orange-600 font-bold">Solar for Homes</h2>
                 <div class="slider">
                     <div>
-                        <img src="assets/h1.png" alt="Solar Home 1" class="w-full" />
+                        <img src="../assets/h1.png" alt="Solar Home 1" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/h2.png" alt="Solar Home 2" class="w-full" />
+                        <img src="../assets/h2.png" alt="Solar Home 2" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/h3.png" alt="Solar Home 3" class="w-full" />
+                        <img src="../assets/h3.png" alt="Solar Home 3" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/h5.png" alt="Solar Home 4" class="w-full" />
+                        <img src="../assets/h5.png" alt="Solar Home 4" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/h6.png" alt="Solar Home 5" class="w-full" />
+                        <img src="../assets/h6.png" alt="Solar Home 5" class="w-full" />
                     </div>
                 </div>
                 <a href="homesolar.html">
@@ -179,16 +179,16 @@
                 <h2 class="text-3xl text-orange-600 font-bold">Solar for Business</h2>
                 <div class="slider">
                     <div>
-                        <img src="assets/b1.png" alt="Solar Business 1" class="w-full" />
+                        <img src="../assets/b1.png" alt="Solar Business 1" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/b2.png" alt="Solar Business 2" class="w-full" />
+                        <img src="../assets/b2.png" alt="Solar Business 2" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/b3.png" alt="Solar Business 3" class="w-full" />
+                        <img src="../assets/b3.png" alt="Solar Business 3" class="w-full" />
                     </div>
                     <div>
-                        <img src="assets/b4.png" alt="Solar Business 4" class="w-full" />
+                        <img src="../assets/b4.png" alt="Solar Business 4" class="w-full" />
                     </div>
                 </div>
                 <a href="bussinessolar.html">
@@ -310,7 +310,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/se.jpg" alt="Image 1" class="w-full" />
+                        <img src="../assets/se.jpg" alt="Image 1" class="w-full" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Solar Panel
@@ -326,7 +326,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/s2.png" alt="Image 2" class="w-full h-64 object-cover" />
+                        <img src="../assets/s2.png" alt="Image 2" class="w-full h-64 object-cover" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Solar System
@@ -343,7 +343,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/s3.jpg" alt="Image 3" class="w-full" />
+                        <img src="../assets/s3.jpg" alt="Image 3" class="w-full" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Solar Energy
@@ -360,7 +360,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/s4.webp" alt="Image 4" class="w-full" />
+                        <img src="../assets/s4.webp" alt="Image 4" class="w-full" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Battery Storage
@@ -377,7 +377,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/s6.jpg" alt="Image 5" class="w-full" />
+                        <img src="../assets/s6.jpg" alt="Image 5" class="w-full" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Solar Financing
@@ -393,7 +393,7 @@
             <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                 <div class="mb-9 rounded-xl py-8 px-7 shadow-md transition-all hover:shadow-lg sm:p-9 lg:px-6 xl:px-9">
                     <div>
-                        <img src="assets/s7.jpg" alt="Image 6" class="w-full h-64 object-cover" />
+                        <img src="../assets/s7.jpg" alt="Image 6" class="w-full h-64 object-cover" />
                     </div>
                     <div>
                         <h3 class="mb-4 text-xl font-bold text-black sm:text-2xl lg:text-xl xl:text-2xl">Solar Water

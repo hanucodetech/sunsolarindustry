@@ -41,7 +41,7 @@
         ?>
     </title>
 
-    <link rel="icon" href="assets/logo1.ico" type="image/x-icon">
+    <link rel="icon" href="../assets/logo1.ico" type="image/x-icon">
 
     <!-- Meta Description -->
     <meta name="description" content="Sun Solar Industry offers the best solar panels and energy solutions in Jhansi. From solar panel installation and maintenance to cost-effective renewable energy solutions, we serve residential and commercial clients in Jhansi. Discover the power of solar energy with the top solar company in Jhansi.">
@@ -52,7 +52,7 @@
     <!-- Open Graph Meta Tags for Social Sharing -->
     <meta property="og:title" content="Sun Solar Industry - Best Solar Panels & Energy Solutions in Jhansi">
     <meta property="og:description" content="Discover high-quality solar panels and energy solutions in Jhansi with Sun Solar Industry. We specialize in installation, maintenance, and eco-friendly solar power for homes and businesses.">
-    <meta property="og:image" content="assets/logo1.jpeg">
+    <meta property="og:image" content="../assets/logo1.jpeg">
     <meta property="og:url" content="https://sunsolarindustry.in">
     <meta property="og:type" content="website">
 
@@ -60,7 +60,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Sun Solar Industry - Best Solar Panels & Energy Solutions in Jhansi">
     <meta name="twitter:description" content="Sun Solar Industry in Jhansi provides top solar panel solutions for residential and commercial needs. Harness eco-friendly solar power for sustainable energy.">
-    <meta name="twitter:image" content="assets/logo1.jpeg">
+    <meta name="twitter:image" content="../assets/logo1.jpeg">
 
     <!-- Schema Markup for Local Business -->
     <script type="application/ld+json">
@@ -146,7 +146,7 @@
         <div class="container mx-auto flex justify-between items-center py-4 px-4 md:px-6 lg:px-8">
             <!-- Logo -->
             <a href="/" class="text-xl font-bold text-white hover:text-orange-600">
-            <img class="h-16 w-80 rounded-lg" src="assets/logo.jpeg" alt="sun solar industry"/></a>
+            <img class="h-16 w-80 rounded-lg" src="../assets/logo.jpeg" alt="sun solar industry"/></a>
             <!-- Links for large screens -->
             <ul class="hidden md:flex space-x-8 items-center text-lg">
                 <li><a href="index.php?page=home" class="text-white hover:text-orange-600">Home</a></li>
