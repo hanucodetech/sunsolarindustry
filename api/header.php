@@ -41,7 +41,7 @@
         ?>
     </title>
 
-    <link rel="icon" href="../assets/logo1.ico" type="image/x-icon">
+    <link rel="icon" href="assets/logo1.ico" type="image/x-icon">
 
     <!-- Meta Description -->
     <meta name="description" content="Sun Solar Industry offers the best solar panels and energy solutions in Jhansi. From solar panel installation and maintenance to cost-effective renewable energy solutions, we serve residential and commercial clients in Jhansi. Discover the power of solar energy with the top solar company in Jhansi.">
