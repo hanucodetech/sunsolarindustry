@@ -98,10 +98,10 @@
                         <h6 class="text-lg font-medium text-white mb-7 max-lg:text-center">
                             Address
                         </h6>
-                        <h2>Sun-Solar</h2>
-                        <p>Shuvaji Nagar -Jhansi</p>
-                        <p>Uttar Pradesh - India</p>
-                        <p>+91 234567898</p>
+                        <h1>Sun Solar Industry</h1>
+                        <p>Shop No 6, Kisan Bajar, New Galla Mandi Rd Talpura</p>
+                        <p>Jhansi, Uttar Pradesh - 284002</p>
+                        <p>+91 8400008677</p>
                     </div>
                 </div>
             </div>

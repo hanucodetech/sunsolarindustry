@@ -25,9 +25,13 @@
                 case 'work':
                     echo 'Our Work - Sun Solar Industry';
                     break;
+                case 'product':
+                        echo 'Product - Sun Solar Industry';
+                        break;
                 case 'contact':
                     echo 'Contact Us - Sun Solar Industry';
                     break;
+               
                 default:
                     echo 'Home - Sun Solar Industry';
             }
@@ -66,17 +70,17 @@
         "name": "Sun Solar Industry",
         "description": "Sun Solar Industry offers the best solar panels and energy solutions in Jhansi. From installation to maintenance, we provide sustainable energy options for residential and commercial clients.",
         "url": "https://sunsolarindustry.in",
-        "telephone": "+91-XXXXXXXXXX",
+        "telephone": "+91-8400008677",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "123 Solar Street",
-            "addressLocality": "Jhansi",
-            "addressRegion": "UP",
+            "streetAddress": "Shop No 6, Kisan Bajar",
+            "addressLocality": "New Galla Mandi Rd Talpura",
+            "addressRegion": "Jhansi, UP",
             "postalCode": "284001",
             "addressCountry": "IN"
         },
         "image": "https://sunsolarindustry.in/assets/logo1.jpeg",
-        "openingHours": "Mo-Fr 09:00-18:00",
+        "openingHours": "Sun-Mon 09:00-18:00",
         "priceRange": "$$",
         "sameAs": [
             "https://www.facebook.com/sunsolarindustry",
@@ -147,18 +151,23 @@
             <ul class="hidden md:flex space-x-8 items-center text-lg">
                 <li><a href="index.php?page=home" class="text-white hover:text-orange-600">Home</a></li>
                 <li><a href="index.php?page=about" class="text-white hover:text-orange-600">About Us</a></li>
-                <li><a href="/" class="text-white hover:text-orange-600">Work</a></li>
+                <li><a href="index.php?page=work" class="text-white hover:text-orange-600">Work</a></li>
+                
                 <li>
-                    <a href="/" class="text-white hover:text-orange-600">Product</a>
+                    <a href="index.php?page=product" class="text-white hover:text-orange-600">Product</a>
                     <button class="ml-2 text-white" id="services-button">▼</button>
                     <ul id="services-dropdown" class="dropdown-hidden absolute bg-gray-200 rounded-md shadow-lg mt-2">
-                        <li><a href="/" class="block px-4 py-2 hover:text-orange-600">Item 1</a></li>
-                        <li><a href="/" class="block px-4 py-2 hover:text-orange-600">Item 2</a></li>
-                        <li><a href="/" class="block px-4 py-2 hover:text-orange-600">Item 3</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Solar Power Plant</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Solar Panel</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Rooftop Solar System</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Solar Inverter</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Solar Battery</a></li>
+                        <li><a href="index.php?page=product" class="block px-4 py-2 hover:text-orange-600">Solar Installation</a></li>
+                  
                     </ul>
                 </li>
                 <li><a href="index.php?page=contact" class="text-white hover:text-orange-600">Contact Us</a></li>
-                <a href="tel:" class="px-6 py-2 bg-orange-600 text-white rounded-full">Book a Call</a>
+                <a href="tel:+91 8400008677" class="px-6 py-2 bg-orange-600 text-white rounded-full">Book a Call</a>
             </ul>
 
             <!-- Mobile Menu Button -->
@@ -173,10 +182,10 @@
         <div id="mobile-menu" class="md:hidden bg-white px-4 pt-2 pb-4 hidden shadow-lg">
             <a href="index.php?page=index" class="block px-3 py-2 text-black hover:text-orange-600">Home</a>
             <a href="index.php?page=about" class="block px-3 py-2 text-black hover:text-orange-600">About Us</a>
-            <a href="/" class="block px-3 py-2 text-black hover:text-orange-600">Work</a>
-            <a href="/" class="block px-3 py-2 text-black hover:text-orange-600">Product</a>
+            <a href="index.php?page=work" class="block px-3 py-2 text-black hover:text-orange-600">Work</a>
+            <a href="index.php?page=product" class="block px-3 py-2 text-black hover:text-orange-600">Product</a>
             <a href="index.php?page=contact" class="block px-3 py-2 text-black hover:text-orange-600">contact us</a>
-            <a href="tel:" class="block px-6 py-2 mt-4 bg-orange-600 text-white rounded-full text-center">Book a
+            <a href="tel:+91 8400008677" class="block px-6 py-2 mt-4 bg-orange-600 text-white rounded-full text-center">Book a
                 Call</a>
         </div>
     </nav>

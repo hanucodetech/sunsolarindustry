@@ -51,7 +51,7 @@
                                 <div class="ml-6">
                                     <p class="mb-2 text-black font-bold">Sales Enquiry</p>
                                     <p class="text-neutral-500">Connect to our sales team to discuss your clean energy project.</p>
-                                    <p class="text-neutral-500">+1 234-567-89</p>
+                                    <p class="text-neutral-500">+91 8400008677</p>
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@
                                 <div class="ml-6">
                                     <p class="mb-2 text-black font-bold">Supplier Enquiry</p>
                                     <p class="text-neutral-500">Connect to our procurement team.</p>
-                                    <p class="text-neutral-500">+1 234-567-89</p>
+                                    <p class="text-neutral-500">+91 8400008677</p>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                                 <div class="ml-6">
                                     <p class="mb-2 text-black font-bold">Media Enquiry</p>
                                     <p class="text-neutral-500">Contact our media relations team for press-related inquiries.</p>
-                                    <p class="text-neutral-500">+1 234-567-89</p>
+                                    <p class="text-neutral-500">+91 8400008677</p>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                                 <div class="ml-6">
                                     <p class="mb-2 text-black font-bold">General Enquiry</p>
                                     <p class="text-neutral-500">For general questions, contact us here.</p>
-                                    <p class="text-neutral-500">+1 234-567-89</p>
+                                    <p class="text-neutral-500">+91 8400008677</p>
                                 </div>
                             </div>
                         </div>

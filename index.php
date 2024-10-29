@@ -15,7 +15,10 @@ if (isset($_GET['page'])) {
     }
     elseif ($page == 'contact') {
         include 'contact.php';
-    } else {
+    } 
+    elseif ($page == 'product') {
+        include 'product.php';
+    }else {
         include 'home.php';
     }
 } else {
