@@ -1,7 +1,7 @@
     <!-- Hero Section -->
     <section class="relative h-screen flex items-center text-white "> <!-- mt-16 to prevent overlap with navbar -->
     <div class="absolute top-0 left-0 w-full h-full overflow-hidden z-0">
-        <video class="min-w-full min-h-full absolute object-cover" src="assets/hero.mp4" type="video/mp4" autoplay muted loop></video>
+        <video class="min-w-full min-h-full absolute object-cover" src="/assets/hero.mp4" type="video/mp4" autoplay muted loop></video>
         <!-- Black overlay with opacity -->
         <div class="absolute top-0 left-0 w-full h-full bg-black opacity-60"></div>
     </div>
