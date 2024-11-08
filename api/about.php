@@ -1,4 +1,3 @@
-
   <!-- about section content -->
     <section id="pricing" aria-label="Pricing" class="bg-slate-900 py-20 sm:py-32">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

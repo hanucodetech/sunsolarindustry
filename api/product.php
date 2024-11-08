@@ -59,7 +59,6 @@
     </div>
 </section>
 
-
 <div class="relative overflow-hidden bg-white pt-16 pb-32 space-y-24">
     <div class="relative">
         <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-flow-col-dense lg:grid-cols-2 lg:gap-24 lg:px-8 ">

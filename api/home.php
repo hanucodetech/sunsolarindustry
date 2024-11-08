@@ -5,7 +5,6 @@
         <!-- Black overlay with opacity -->
         <div class="absolute top-0 left-0 w-full h-full bg-black opacity-60"></div>
     </div>
-
     <!-- Content section with flexbox to split into left and right -->
     <div class="relative z-10 w-full flex justify-center items-center mt-60 sm:mt-10 px-8">
         <div class="w-full md:w-3/4 lg:w-2/3 flex flex-col md:flex-row justify-around gap-8 items-center">

@@ -3,8 +3,7 @@
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="flex flex-col sm:flex-row items-center justify-between pb-14 border-b border-gray-500 gap-8">
                 <a href="/" class="text-xl font-bold text-white hover:text-orange-600">
-                <img class="h-16 w-80" src="assets/logo.jpeg" alt="sun solar industry"/></a>
-                
+                <img class="h-16 w-80" src="assets/logo.jpeg" alt="sun solar industry"/></a>  
                 <div class="flex items-center gap-4">
                     <a href="javascript:;"
                         class="p-3 rounded-full bg-white text-gray-700 group transition-all duration-500 hover:bg-amber-500 hover:text-white focus-within:outline-0 focus-within:bg-amber-500 focus-within:text-white">

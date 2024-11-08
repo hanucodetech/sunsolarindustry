@@ -5,7 +5,6 @@
 // Check the 'page' parameter to load the corresponding file
 if (isset($_GET['page'])) {
     $page = $_GET['page'];
-    
     // Handle different pages
     if ($page == 'about') {
         include 'about.php';
