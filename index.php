@@ -24,5 +24,4 @@ if (isset($_GET['page'])) {
     include 'home.php'; // Default to home page
 }
 ?>
-
 <?php include 'footer.php'; ?>
