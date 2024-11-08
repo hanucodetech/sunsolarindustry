@@ -6,10 +6,10 @@
     "api/home.php": {
       "runtime": "vercel-php@0.6.0"
     },
-    "api/contact.php": {
+    "api/about.php": {
       "runtime": "vercel-php@0.6.0"
     },
-    "api/about.php": {
+    "api/contact.php": {
       "runtime": "vercel-php@0.6.0"
     },
     "api/product.php": {
